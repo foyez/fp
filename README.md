@@ -134,4 +134,4 @@ var newRooms = rooms.map(function (rm) {
 - [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
 - [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
 
-<br>[⬆ Back to top](#table-of-contents)
+<br>[⬆ Back to top](#Functional-Programming)
