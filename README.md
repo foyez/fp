@@ -101,13 +101,7 @@ rooms[2] = “H4”;
 
 ```js
 var rooms = [“H1”, “H2”, “H3”];
-var newRooms = rooms.map(function (rm) {
-  if (rm === “H3”) {
-    return “H4”;
-  }  else {
-    return rm;
-  }
-});
+var newRooms = rooms.map(rm => rm === "H3" ? "H4" : rm);
 
 // newRooms => ["H1", "H2", "H4"]
 // rooms => ["H1", "H2", "H3"]
